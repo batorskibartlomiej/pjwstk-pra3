@@ -1,0 +1,5 @@
+1|Adam Mickeiwicz|Pan Tadeusz|PWN|52.90|file1.jpg
+2|CLARA SIMSON|WHAT TO DO|EXPORT|26.15|file2.jpg
+3|ALLAR WATSON|CO TO BEDZIE|HELIOS|14.90|file3.jpg
+4|MICKEIWCZ|Hello|PWN|13.49|file4.jpg
+5|Krzysztof ZIELONKA|MAJ CWAJ|Helion|12|file5.jpg
